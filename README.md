@@ -2,11 +2,19 @@
 
 Implementation of a Fraud Detection Model, using kaggle's dataset. Built in Python, using 3 different approaches:
 
-* 1º - Pycaret Anomaly Detection (6 models tested):
-** KNN;
-- Isolation Forest;
+**`1º - Pycaret Anomaly Detection (6 models tested):`**
+* KNN;
+* Isolation Forest;
+* Clustering-Based Local Outlier;
+* Histogram-based Outlier Detection;
+* Principal Component Analysis (PCA);
+* Minimum Covariance Determinant.
 
-* Pycaret Classifier (using 100% of our data);
+**`2º - Pycaret Classifier (using 100% of our data):`**
+
+
+
+
 * Logistic Regression with under-over samples (SMOTE technique).
 
 **Conclusions**
