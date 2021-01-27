@@ -33,7 +33,7 @@ Implementation of a Fraud Detection Model, using kaggle's dataset. Built in Pyth
 * Sklearn Library Logistic Regression done manually;
 * Implementation of techniques aiming at unbalanced targets issues.
 
-**Conclusions**
+# **Conclusions**
 
 The implementations made in this project show us that we have a trade-off when it comes to models. On the one hand, a model that can detect 95% of anomaly cases, but which attributes a huge volume of "non-fraud" transactions to fraud (false positive). On the other hand, a little prediction is lost using an under-over sample model (we achieved 87% success in detecting fraud), but we labeled 92% less reputable transactions as fraud, thus reducing our volume of false positives.
 
