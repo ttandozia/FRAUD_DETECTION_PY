@@ -10,12 +10,28 @@ Implementation of a Fraud Detection Model, using kaggle's dataset. Built in Pyth
 * Principal Component Analysis (PCA);
 * Minimum Covariance Determinant.
 
-**`2º - Pycaret Classifier (using 100% of our data):`**
+
+**`2º - Pycaret Classifier using 100% of our data (pycaret trains 15 models by default):`**
+* Random Forest Classifier;
+* Extra Trees Classifier;
+* Extreme Gradient Boosting;
+* CatBoost Classifier;
+* Light Gradient Boosting Machine;
+* Decision Tree Classifier;
+* K Neighbors Classifier;
+* Gradient Boosting Classifier;
+* Quadratic Discriminant Analysis;
+* Ada Boost Classifier;
+* Naive Bayes;
+* Logistic Regression;
+* SVM - Linear Kernel;
+* Ridge Classifier;
+* Linear Discriminant Analysis;
 
 
-
-
-* Logistic Regression with under-over samples (SMOTE technique).
+**`3º - Logistic Regression with under-over samples (SMOTE technique):`**
+* Sklearn Library Logistic Regression done manually;
+* Implementation of techniques aiming at unbalanced targets issues.
 
 **Conclusions**
 
