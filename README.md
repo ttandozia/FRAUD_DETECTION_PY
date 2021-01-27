@@ -25,6 +25,6 @@ The implementations made in this project show us that we have a trade-off when i
 Here you can see a comparing plot with the 3 approaches and a plot of pycaret's logistic regression AUC:
 
 
-<img src="./print_examples/image_1.jpg" height="600" width="300">
+<img src="./print_examples/image_1.gng" height="300" width="600">
 
-<img src="./print_examples/image_2.jpg" height="400" width="400">
+<img src="./print_examples/image_2.png" height="400" width="400">
